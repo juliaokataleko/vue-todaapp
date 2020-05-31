@@ -51,9 +51,9 @@
     input[type="text"] {
         flex: 10;
         padding: 0 10px;
-        line-height: 2em;
+        line-height: 3em;
         border: 0;
-        background:#8bb1eb;
+        background:#f1f2f5;
         color: #444;
     }
 

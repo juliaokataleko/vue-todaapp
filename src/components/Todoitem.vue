@@ -35,12 +35,13 @@
     }
 
     .is-complete {
-        background: #0ab875;
+        background: #748499;
         color: #fff;
     }
 
     .del {
-        background: #df3704;
+        background: #d1c5c1;
+        box-shadow: 0px 1px 5px 0px #dddddd;
         color: #fff;
         border: none;
         height: 35px;
@@ -49,6 +50,7 @@
         line-height: 35px;
         border-radius: 50%;
         cursor: pointer;
+        transition: 0.4s;
     }
 
     .del:hover {

@@ -5,7 +5,7 @@
   display: flex;
   flex-direction: column;
   margin: 0 auto; 
-  background: #ccc;">
+  background: #fff;">
     <Header />
     
     <router-view/>
@@ -28,6 +28,10 @@ export default {
 html, body {
   height: 100%;
 }
+body {
+  background: #dddddd;
+}
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;

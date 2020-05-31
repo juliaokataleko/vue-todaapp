@@ -20,7 +20,7 @@
         background:#468af0;
         color: #fff;
         text-align: center;
-        line-height: 4em;
+        line-height: 5em;
         padding: 0 2em;
         display: flex;
         flex-direction: row;
